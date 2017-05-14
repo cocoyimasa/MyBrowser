@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HtmlParser
+{
+    public class $className$ : HtmlElement
+    {
+        public $className$()
+        {
+             
+        }
+		public HtmlElement(HtmlToken _token)
+            :base(_token)
+        {
+
+        }
+
+        public override void Accept()
+        {
+            base.Accept();
+        }
+
+        public override string ToString()
+        {
+            return "$className$:" + name.value;
+        }
+    }
+}

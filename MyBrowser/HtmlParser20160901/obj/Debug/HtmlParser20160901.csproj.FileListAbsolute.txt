@@ -1,0 +1,6 @@
+D:\Program Files\Project\HtmlParser20160901\HtmlParser20160901\bin\Debug\HtmlParser20160901.exe.config
+D:\Program Files\Project\HtmlParser20160901\HtmlParser20160901\bin\Debug\HtmlParser20160901.exe
+D:\Program Files\Project\HtmlParser20160901\HtmlParser20160901\bin\Debug\HtmlParser20160901.pdb
+D:\Program Files\Project\HtmlParser20160901\HtmlParser20160901\obj\Debug\HtmlParser20160901.csprojResolveAssemblyReference.cache
+D:\Program Files\Project\HtmlParser20160901\HtmlParser20160901\obj\Debug\HtmlParser20160901.exe
+D:\Program Files\Project\HtmlParser20160901\HtmlParser20160901\obj\Debug\HtmlParser20160901.pdb

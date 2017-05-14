@@ -1,0 +1,11 @@
+D:\Program Files\Project\CssCore\CssCore\bin\Debug\CssCore.exe.config
+D:\Program Files\Project\CssCore\CssCore\bin\Debug\CssCore.exe
+D:\Program Files\Project\CssCore\CssCore\bin\Debug\CssCore.pdb
+D:\Program Files\Project\CssCore\CssCore\obj\Debug\CssCore.csprojResolveAssemblyReference.cache
+D:\Program Files\Project\CssCore\CssCore\obj\Debug\CssCore.exe
+D:\Program Files\Project\CssCore\CssCore\obj\Debug\CssCore.pdb
+D:\Program Files\Project\MyBroswer20160901\CssCore\bin\Debug\CssCore.exe.config
+D:\Program Files\Project\MyBroswer20160901\CssCore\bin\Debug\CssCore.exe
+D:\Program Files\Project\MyBroswer20160901\CssCore\bin\Debug\CssCore.pdb
+D:\Program Files\Project\MyBroswer20160901\CssCore\obj\Debug\CssCore.exe
+D:\Program Files\Project\MyBroswer20160901\CssCore\obj\Debug\CssCore.pdb
